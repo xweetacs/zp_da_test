@@ -7,7 +7,7 @@ This project was created to provide an understanding of my SQL, analysis and vis
 ### Part one - get acquainted to the data structure
 
 ### Part two:
-# Create a data model on top of the current structure to manipulate the data
+### Create a data model on top of the current structure to manipulate the data
 * Active user: A user is considered active on any day where they have at least one task executed in the prior 28 days.
 * Churn: A user is considered to be churn 28 days after their last being considered active. A user is no longer part of churn if he becomes active again.
 
@@ -49,6 +49,8 @@ Once you see the message 'All Done,' feel free to close the Terminal / cmd line.
 ## Visualization
 
 
+
+### Definitions used
 
 
 ### Comments / Recommendations
